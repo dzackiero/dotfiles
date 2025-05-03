@@ -1,0 +1,8 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Ctrl-B": "lua:filemanager.toggle_tree",
+    "CtrlP": "command:palettero",
+    "CtrlSpace": "command:palettero",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F5": "lua:wc.wordCount"
+}
